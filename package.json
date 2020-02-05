@@ -1,0 +1,23 @@
+{
+  "name": "landingpage-groupe10",
+  "version": "1.0.0",
+  "description": "projet landing page Primask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastienbezombes/landingPage-groupe10.git"
+  },
+  "author": "Oliwia Chene,
+  Ramtin Attar,
+  Ousmane Ndiaye,
+  Laurent Dashwood et
+  Sébastien Bezombes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastienbezombes/landingPage-groupe10/issues"
+  },
+  "homepage": "https://github.com/Sebastienbezombes/landingPage-groupe10#readme"
+}
